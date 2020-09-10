@@ -1,0 +1,13 @@
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.exe
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.deps.json
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.json
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.dev.json
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.dll
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.pdb
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csprojAssemblyReference.cache
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfo.cs
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.dll
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.pdb
+C:\Users\Smith_Conner\source\repos\MoneyMaker\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.genruntimeconfig.cache
